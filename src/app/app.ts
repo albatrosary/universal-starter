@@ -18,3 +18,12 @@ export class App {
 export class Home {
 
 }
+
+
+@Component({
+  selector: 'about',
+  template: 'About component'
+})
+export class About {
+
+}
